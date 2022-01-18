@@ -1,0 +1,10 @@
+{
+    "policyId": "6e944d18c45ce6f59c663aa80137c88bd7fc1a92efa7206e50c79b96",
+    "name": "UNSEE",
+    "symbol": "UNC",
+    "website": "https://unc.si/",
+    "description": "This is an utility token for NFT experts growing the community - empowering startup.",
+    "totalSupply": 9,990,000,000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 0
+}
