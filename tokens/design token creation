@@ -1,0 +1,10 @@
+{
+    "policyId": "bff2dea3be56d68319db107c0afe4cf8780eefb60fe42f4ab9b360ce",
+    "name": "DESIGN TOKEN",
+    "symbol": "DSGN",
+    "website": "https://tino.si/",
+    "description": "This is an utility token for designers and creative industry workers empowering the cardano ecosystem.",
+    "totalSupply": 9,999,000,000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 0
+}
